@@ -1,0 +1,2 @@
+# FirstAutoTest_OneBuy
+AutoTestQAMokymai
